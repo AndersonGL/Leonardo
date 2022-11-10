@@ -2,6 +2,7 @@ body {
     color: white;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+   
 }
 
 ul {
@@ -29,12 +30,16 @@ header img {
 }
 
 h1 {
-    color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+
 }
 
 footer img {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 footer {
