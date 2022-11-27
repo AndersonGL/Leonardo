@@ -9,7 +9,7 @@ ul {
     justify-content:space-between;
     list-style-type:none ;
     align-items:0px;
-    padding: 0px;
+    padding: 10px;
 }
 
 a {
@@ -18,8 +18,8 @@ a {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 0px solid black;
 }
@@ -88,5 +88,5 @@ button {
     background-color: white;
     border: none;
     width: 100px;
-    height: 1000px;
+    height: 100px;
 }
